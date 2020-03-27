@@ -2,7 +2,9 @@ Coursera: Crash Course on Python
 ----------------------------------
 
 A quick revision of Python during COVID-19 :( 
+
 This repository contains all the solution codes as notebook of the course assessments done by me.
+
 N.B. If you find any error or issue, let me know through issue section. Though all the codes were tested on coursera. 
 
 **Crash Course on Python** part of ***Google IT Automation with Python Professional Certificate***
