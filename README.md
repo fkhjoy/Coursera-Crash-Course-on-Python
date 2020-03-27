@@ -17,10 +17,10 @@ N.B. If you find any error or issue, let me know through issue section. Though a
     - [x] Module 2 Graded Assessment
 
   - **Week 3 Loops**
-    - [ ] Practice Quiz: While Loops
-    - [ ] Practice Quiz: For Loops
-    - [ ] Practice Quiz: Recursion(Optional)
-    - [ ] Module 3 Graded Assessment
+    - [x] Practice Quiz: While Loops
+    - [x] Practice Quiz: For Loops
+    - [x] Practice Quiz: Recursion(Optional)
+    - [x] Module 3 Graded Assessment
     
   - **Week 4 Strings, Lists and Dictionaries**
     - [ ] Practice Quiz: Strings
