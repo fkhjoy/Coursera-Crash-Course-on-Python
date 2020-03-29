@@ -5,7 +5,7 @@ A quick revision of Python during COVID-19 :(
 
 This repository contains all the solution codes as notebook of the course assessments done by me.
 
-N.B. If you find any error or issue, let me know through issue section. Though all the codes were tested on coursera. 
+N.B. If you find any error or face any issue, let me know through issue section. Though all the codes were tested on coursera. 
 
 **Crash Course on Python** part of the ***Google IT Automation with Python Professional Certificate***
 
@@ -35,4 +35,5 @@ N.B. If you find any error or issue, let me know through issue section. Though a
     - [x] Practice Notebook: Object Oriented Programming (Optional)
 
   - **Week 6: Final Project**
-    - [ ] Final Project: WordCloud
+    - [x] Practice Notebook - Putting It All Together
+    - [x] Final Project: WordCloud
