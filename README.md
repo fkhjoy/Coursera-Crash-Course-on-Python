@@ -7,7 +7,7 @@ This repository contains all the solution codes as notebook of the course assess
 
 N.B. If you find any error or issue, let me know through issue section. Though all the codes were tested on coursera. 
 
-**Crash Course on Python** part of ***Google IT Automation with Python Professional Certificate***
+**Crash Course on Python** part of the ***Google IT Automation with Python Professional Certificate***
 
 
   - **Week 2: Basic Python Syntax**    
@@ -29,10 +29,10 @@ N.B. If you find any error or issue, let me know through issue section. Though a
     - [x] Module 4 Graded Assessment
 
   - **Week 5: Object Oriented Programming (Optional)**
-    - [ ] Practice Quiz: Object-oriented Programming (Optional)
-    - [ ] Methods and Classes (Optional)
-    - [ ] Code Reuse (Optional)
-    - [ ] Practice Notebook: Object Oriented Programming (Optional)
+    - [x] Basics of Object Oriented Programming
+    - [x] Methods and Classes (Optional)
+    - [x] Code Reuse (Optional)
+    - [x] Practice Notebook: Object Oriented Programming (Optional)
 
   - **Week 6: Final Project**
     - [ ] Final Project: WordCloud
