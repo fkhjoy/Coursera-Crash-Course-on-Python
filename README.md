@@ -5,7 +5,7 @@ A quick revision of Python during COVID-19 :(
 
 This repository contains all the solution codes as notebook of the course assessments done by me.
 
-N.B. If you find any error or face any issue, let me know through issue section. All the codes were tested and passed on coursera. There is a chance that they may change or add problems in future. If you don't find any problem solution of practice quiz or module assessment, open an issue including the problem description along week number.
+N.B. All the codes were tested and passed on coursera. If you find any error or face any issue, let me know through issue section. There is a chance that they may change or add problems in future. If you don't find any problem solution of practice quiz or module assessment, open an issue including the problem description along week number.
 
 
 **Crash Course on Python** part of the ***Google IT Automation with Python Professional Certificate***
