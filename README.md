@@ -30,7 +30,7 @@ N.B. All the codes were tested and passed on coursera. If you find any error or 
     - [x] Module 4 Graded Assessment
 
   - **Week 5: Object Oriented Programming (Optional)**
-    - [x] Basics of Object Oriented Programming
+    - [x] Basics of Object Oriented Programming (Optional)
     - [x] Methods and Classes (Optional)
     - [x] Code Reuse (Optional)
     - [x] Practice Notebook: Object Oriented Programming (Optional)
