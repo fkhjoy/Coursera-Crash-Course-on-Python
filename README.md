@@ -1,7 +1,7 @@
 Coursera: Crash Course on Python
 ----------------------------------
 
-A quick revision of Python during COVID-19 :( 
+A quick revision of Python during pandemic :)
 
 This repository contains all the solution codes as notebook of the course assessments done by me.
 
